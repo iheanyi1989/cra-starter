@@ -17,13 +17,6 @@ export const schema = {
                     "isRequired": false,
                     "attributes": []
                 },
-                "Tesf": {
-                    "name": "Tesf",
-                    "isArray": false,
-                    "type": "String",
-                    "isRequired": false,
-                    "attributes": []
-                },
                 "createdAt": {
                     "name": "createdAt",
                     "isArray": false,
