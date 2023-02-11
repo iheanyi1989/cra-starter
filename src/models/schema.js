@@ -1,7 +1,7 @@
 export const schema = {
     "models": {
-        "Todo": {
-            "name": "Todo",
+        "Deploy": {
+            "name": "DeployToProd",
             "fields": {
                 "id": {
                     "name": "id",
