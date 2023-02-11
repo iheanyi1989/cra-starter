@@ -1,6 +1,4 @@
 type Todo @model @auth(rules: [{allow: public}]) {
   id: ID!
   description: String
-  Tesf: String
 }
- 
