@@ -17,6 +17,13 @@ export const schema = {
                     "isRequired": false,
                     "attributes": []
                 },
+                "Tesf": {
+                    "name": "Tesf",
+                    "isArray": false,
+                    "type": "String",
+                    "isRequired": false,
+                    "attributes": []
+                },
                 "createdAt": {
                     "name": "createdAt",
                     "isArray": false,
@@ -62,5 +69,6 @@ export const schema = {
     },
     "enums": {},
     "nonModels": {},
-    "version": "3a1af757192f83e45f3dd9ea54e39609"
+    "codegenVersion": "3.3.5",
+    "version": "ef6fcfb492fbd983b85e16c3ca845541"
 };
